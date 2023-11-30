@@ -4,4 +4,5 @@ Bu projenin temel amacı, Kitsune veri seti içindeki güvenlikle ilgili desenle
 
 # Rappor 
 Bu rapor, DHCP trafiği üzerinde gerçekleştirilen makine öğrenmesi tabanlı bir analizi içermektedir.  secrepo.com   'dan elde edilen DHCP trafiği verilerini içermektedir.
->>> [Kitsune 2.pdf](https://github.com/lorinesim/DATASET-Machine-learning-/files/13515002/Kitsune.2.pdf)
+>>> [Kitsune 2.pdf](https://github.com/lorinesim/DATASET-Machine-learning-/files/13515023/Kitsune.2.pdf)
+
